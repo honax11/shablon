@@ -1,0 +1,61 @@
+.body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.container{
+    margin: 0px 166px;
+}
+
+.header{
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-line{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-title{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 14px;
+
+    margin-left: 25px;
+
+}
+
+.card{
+    position: relative;
+    border-right: 1px solid #FFFFFF;
+    padding-right: 10px;
+    height: 50px;
+}
+
+.card-img{
+    position: absolute;
+    top: 20px;
+    right: 7px;
+}
+
+.num{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.phone-text{
+    font-size: 14px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.phone-holder{
+    display: flex;
+    align-items: center;
+}
